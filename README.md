@@ -120,7 +120,7 @@ Here we collect papers for DVS4PD(DVS/Event-based Camera for Pedestrian Detectio
 
 - **Multi-Cue Event Information Fusion for Pedestrian Detection With Neuromorphic Vision Sensorsn**  <br>
   [Neurorobot] (JCR-2)  　MDPI  <br> 
-[PDF](https://ieeexplore.ieee.org/document/8793924)  　[code](https://github.com/colinshane/DVS-multi-cue-pedestrian-detection) <br>
+[PDF](https://www.frontiersin.org/articles/10.3389/fnbot.2019.00010/full)  　[code](https://github.com/colinshane/DVS-multi-cue-pedestrian-detection) <br>
 
 
 ## 2018
